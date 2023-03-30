@@ -1,0 +1,71 @@
+/*selector {
+	propiedad: valor;
+}*/
+
+/*
+.container{
+	display: flex;
+	flex-wrap: wrap;	
+}
+
+.row{
+	display: flex;
+	flex-wrap: nowrap;
+	
+}
+.col-sm-8{
+    display: flex;
+	flex-wrap: wrap;
+
+}
+
+.d-block w-12{
+	  width: 50%;
+	  display: block;	
+}*/
+
+.encabezado{
+	height: 100px;
+	background-color: #993366;
+	margin:auto;
+	color:white;
+}
+
+h1{
+	text-align: center;
+}
+
+#carouselExampleIndicators{
+	 
+	     width: 870px;
+	     margin:auto;	 
+}
+
+
+h2,a {
+	color: red;
+	cursor: pointer;
+	/*box-shadow: 4px 4px 5px #888888;*/
+	
+}
+
+p {
+	 font-style: oblique;
+	 
+}
+
+
+.centrar{
+	text-align: center;
+	color:white;
+	font-size: 20px;
+}
+
+img{
+	
+	margin: 10px;
+	transition: all 1s;
+}
+img:hover{
+	transform: scale(1.1);
+}
